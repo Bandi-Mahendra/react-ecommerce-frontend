@@ -1,7 +1,7 @@
 # React E-Commerce Frontend
 
 ## 📌 Overview
-Customized React E-Commerce Frontend project built during my 6-month post-graduation break to strengthen full-stack development skills.  
+Customized React E-Commerce Frontend project built during my break to enhance full-stack development skills.  
 Features include product catalog, category filtering, search, and responsive UI.
 
 ## 🛠️ Tech Stack
