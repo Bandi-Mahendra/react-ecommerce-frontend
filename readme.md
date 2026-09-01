@@ -1,142 +1,59 @@
-🛒 React E-Commerce Products
+# React E-Commerce Frontend
 
-A modern and responsive React E-Commerce web application built using React, Tailwind CSS, React Router, and FakeStore API.
-This project demonstrates real-world e-commerce functionality including product listing, product details, category filtering, and global search with a clean and professional UI.
+## 📌 Overview
+Customized React E-Commerce Frontend project built during my 6-month post-graduation break to strengthen full-stack development skills.  
+Features include product catalog, category filtering, search, and responsive UI.
 
-📸 UI Preview
+## 🛠️ Tech Stack
+- React
+- Tailwind CSS
+- React Router
+- Axios
 
-🏠 Home Page
-<img width="1366" height="3091" alt="HomePage" src="https://github.com/user-attachments/assets/05f8f073-ea7a-4cf4-9728-9be18508554a" />
+## ✨ Features
+- Product listing from API
+- Product detail pages
+- Category filtering
+- Search functionality
+- Responsive design (mobile, tablet, desktop)
 
-🛍️ Products Page
-<img width="1366" height="1144" alt="ProductsPage" src="https://github.com/user-attachments/assets/1ca62325-2090-48c2-a07c-de2acd26dc93" />
+## 🚀 How to Run
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Bandi-Mahendra/react-ecommerce-frontend.git
+   cd react-ecommerce-frontend
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Run locally:
+   ```bash
+   npm run dev
+   ```
+4. Open in browser:
+   ```bash
+   http://localhost:5173
+   ```
 
-📦 Product Details Page
-<img width="1366" height="661" alt="detailsPage" src="https://github.com/user-attachments/assets/313c128a-3d7c-4383-be38-74fea7f24296" />
+## 📸 Home Page
+![Home Page](screenshots/Home.png)
+![Home Page](screenshots/Home2.png)
+![Home Page](screenshots/Home3.png)
+![Home Page](screenshots/Home4.png)
+![Home Page](screenshots/Home5.png)
 
-📬 Product Categories
-<img width="1346" height="1087" alt="Category Product" src="https://github.com/user-attachments/assets/616f359d-ba37-4676-b5b2-5d804bec97e9" />
+## 📸 Product Page
+![Product Page](screenshots/products1.png)
+![Product Page](screenshots/products2.png)
+![Product Page](screenshots/product.png)
 
-✨ Features
+## 📦 Future Improvements
+- Backend integration with Node.js/Express
+- User authentication (login/register)
+- Cart persistence with database
+- Payment gateway integration
 
-✅ Modern and responsive UI
-
-✅ Product listing from FakeStore API
-
-✅ Product detail page
-
-✅ Global search functionality
-
-✅ Category filtering
-
-✅ React Router navigation
-
-✅ Shared state using Outlet Context
-
-✅ Professional Hero section
-
-✅ Featured products section
-
-✅ Category cards section
-
-✅ Why Choose Us section
-
-✅ Newsletter subscription section
-
-✅ Clean and reusable components
-
-✅ Mobile responsive design
-
-🧰 Tech Stack
-
-Frontend
-
-React JS
-
-Tailwind CSS
-
-React Router DOM
-
-Axios
-
-API
-
-FakeStore API
-
-Build Tool
-
-Vite
-
-📂 Project Structure
-react-ecommerce-products/
-│
-├── public/
-│
-├── src/
-│   ├── Component/
-│   │   ├── Footer.jsx
-│   │   ├── Navbar.jsx
-│   │
-│   ├── pages/
-│   │   ├── Home.jsx
-│   │   ├── Products.jsx
-│   │   ├── ProductDetails.jsx
-│   │
-│   ├── App.jsx
-│   ├── main.jsx
-│
-├── screenshots/
-│   ├── home.png
-│   ├── products.png
-│   ├── product-detail.png
-│
-├── package.json
-├── README.md
-⚙️ Installation
-1. Clone the repository
-git clone https://github.com/mqkhan125/react-ecommerce-products.git
-2. Navigate to project folder
-cd react-ecommerce-products
-3. Install dependencies
-npm install
-4. Run the project
-npm run dev
-🌐 API Used
-
-FakeStore API
-
-https://fakestoreapi.com/products
-🎯 Learning Objectives
-
-This project demonstrates:
-
-React component architecture
-
-API integration using Axios
-
-State management
-
-React Router navigation
-
-Context sharing using Outlet
-
-Modern UI design using Tailwind CSS
-
-Professional project structure
-
-📱 Responsive Design
-
-Fully responsive and works on:
-
-Mobile
-
-Tablet
-
-Desktop
-
-👨‍💻 Author
-
-Muhammad Qasim Khan
-
-GitHub:
-https://github.com/mqkhan125
+## 👤 Author
+Bandi Mahendra  
+React E-Commerce Frontend Project 
