@@ -19,7 +19,7 @@ const Navbar = ({search, handleSearch, category, handleInputCategory}) => {
             src="https://png.pngtree.com/png-vector/20220930/ourmid/pngtree-shopping-logo-design-for-online-store-website-png-image_6239056.png"
             alt="logo"
           />
-          <span className="text-xl font-bold tracking-wide">ShopZone</span>
+          <span className="text-xl font-bold tracking-wide">Mahendra Store</span>
         </div>
 
         {/* Menu Links */}

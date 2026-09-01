@@ -56,7 +56,7 @@ const Home = () => {
           <div className="md:w-1/2 flex justify-center relative">
             <div className="absolute w-72 h-72 bg-blue-500/20 rounded-full blur-2xl"></div>
             <img
-              src="https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?q=80&w=1200&auto=format&fit=crop"
+              src="https://m.media-amazon.com/images/I/41Xb-Cw11vL.jpg"
               alt="Hero Product"
               className="relative w-[450px] md:w-[520px] object-contain drop-shadow-2xl transition duration-500 hover:scale-105"
             />
@@ -115,7 +115,7 @@ const Home = () => {
         {/* Heading */}
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold mb-4">
-            Why Choose <span className="text-blue-500">ShopZone</span>
+            Why Choose <span className="text-blue-500">Mahendra Store</span>
           </h2>
           <p className="text-gray-400 max-w-2xl mx-auto">
             We provide the best shopping experience with premium products, fast

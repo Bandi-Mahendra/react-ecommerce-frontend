@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-6 grid md:grid-cols-4 gap-12">
         {/* Logo + About */}
         <div>
-          <h2 className="text-2xl font-bold text-white mb-4">ShopZone</h2>
+          <h2 className="text-2xl font-bold text-white mb-4">Mahendra Store</h2>
           <p className="text-gray-400 text-sm leading-relaxed">
             Discover premium products at the best prices. Quality, trust, and
             fast delivery guaranteed.
@@ -72,16 +72,16 @@ const Footer = () => {
         <div>
           <h3 className="text-white font-semibold mb-4">Contact Us</h3>
           <ul className="space-y-3 text-sm">
-            <li>Email: support@shopzone.com</li>
-            <li>Phone: +1 234 567 890</li>
-            <li>Location: New York, USA</li>
+            <li>Email: support@mahendrastore.com</li>
+            <li>Phone: +91 987 654 3210</li>
+            <li>Location: Chennai, Tamil Nadu</li>
           </ul>
         </div>
       </div>
 
       {/* Bottom Line */}
       <div className="mt-12 border-t border-gray-800 pt-6 text-center text-sm text-gray-500">
-        © {new Date().getFullYear()} ShopZone. All rights reserved.
+        © {new Date().getFullYear()} Mahendra Store. All rights reserved.
       </div>
     </footer>
   );

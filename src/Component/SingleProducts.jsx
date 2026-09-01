@@ -60,14 +60,14 @@ return (
         </p>
 
         {/* Action Buttons */}
-        <div className="flex gap-4 mt-auto">
-          <button className="flex-1 bg-blue-600 hover:bg-blue-700 transition py-3 rounded-xl text-lg font-medium">
-            Add to Cart
-          </button>
-          <button className="flex-1 border border-blue-500 hover:bg-blue-500/10 transition py-3 rounded-xl text-lg font-medium">
-            Buy Now
-          </button>
-        </div>
+       <div className="flex gap-4 mt-4">
+  <button className="flex-1 bg-blue-600 text-white hover:bg-blue-700 transition py-3 rounded-xl text-lg font-medium">
+    Add to Cart
+  </button>
+  <button className="flex-1 bg-green-600 text-white hover:bg-green-700 transition py-3 rounded-xl text-lg font-medium">
+    Buy Now
+  </button>
+</div>
       </div>
     </div>
   </div>
